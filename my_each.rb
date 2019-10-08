@@ -5,3 +5,4 @@ def my_each(arguments) # put argument(s) her
   puts "The current array item is #{item}"
   i += 1 
 end
+end
