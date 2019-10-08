@@ -10,6 +10,7 @@ def my_each(array)
 end
 
 my_each(list) {|i| p "So I think #{i} is a ..."}
+my_each(array)
 
 # Use the collection method 
 # To make the *return-value* the answer you want
