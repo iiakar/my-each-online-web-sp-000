@@ -4,4 +4,6 @@ def my_each(arguments) # put argument(s) her
   
 end
 
-array
+array = [1,2,3,4,5]
+
+array lenght? 5 
