@@ -1,4 +1,4 @@
-def my_each(arguments) # put argument(s) here
-  counter = 0
+def my_each(arguments) # put argument(s) her 
+  i = 0
   while 
 end
