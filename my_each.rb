@@ -3,3 +3,5 @@ def my_each(arguments) # put argument(s) her
   while i < array.length 
   
 end
+
+array
