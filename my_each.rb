@@ -3,6 +3,8 @@ def my_each(arguments) # put argument(s) her
   while counter < arguments.length
   arguments.each do |word| puts word
   counter += 1 
+  yield(arguments)
 end
 end
 end
+my_each(arguments)
