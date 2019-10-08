@@ -9,7 +9,7 @@ def my_each(array)
   end
 end
 
-my_each(list) {|i| p "So I think #{i} is a piece of shit"}
+my_each(list) {|i| p "So I think #{i} is a ..."}
 
 # Use the collection method 
 # To make the *return-value* the answer you want
