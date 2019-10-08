@@ -16,7 +16,7 @@ my_each(list) {|i| p "So I think #{i} is a ..."}
 # To make the *return-value* the answer you want
 # instead of "=> nil"
 
-def hello(array)    array(1) array(2)
+def hello(array)
   i = 0
   collection = []
   while i < array.length
