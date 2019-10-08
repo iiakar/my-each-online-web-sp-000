@@ -7,4 +7,3 @@ def my_each(arguments) # put argument(s) her
 end
 end
 end
-my_each(arguments)
