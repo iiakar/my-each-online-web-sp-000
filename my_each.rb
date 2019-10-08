@@ -3,7 +3,3 @@ def my_each(arguments) # put argument(s) her
   while i < array.length 
   item = array[i]
 end
-
-array = [1,2,3,4,5]
-
-array lenght? 5 
